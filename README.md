@@ -1,3 +1,3 @@
-# PetAngle Admin #
+# AniHelp Admin #
 
-### The admin side app for PetAngle ###
+### The admin side app for AniHelp ###
