@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.anihelp_admin">
    <application
-        android:label="PetAngle Admin"
+        android:label="AniHelp Admin"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

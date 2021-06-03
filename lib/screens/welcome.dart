@@ -38,7 +38,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                       Row(
                         mainAxisAlignment: MainAxisAlignment.end,
                         children: [
-                          Text("PetAngle",
+                          Text("AniHelp Admin",
                               style: TextStyle(
                                   fontSize: 40,
                                   letterSpacing: 2,
